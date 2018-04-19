@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Purify</title>
+  <link rel="stylesheet" href="../skeleton-css/normalize.css">
+  <link rel="stylesheet" href="../skeleton-css/skeleton.css">
+  <link rel="stylesheet" href="popup.css">
+
+  <script type="text/javascript" src="popup.js"></script>
+</head>
+<body>
+
+<h1 id="title">Purify</h1>
+<hr>
+
+<div id="loading-screen">
+  <h3>Loading page rules!</h3>
+  <p id="tmp"></p>
+</div>
+
+<div id="general-settings" >
+  <div class="switch-on-off noselect">
+    <label>
+      <div>
+        <h4>Clean mode</h4>
+      </div>
+      <div class="switch">
+        <input type="checkbox" id="clean-mode-btn">
+        <span class="slider"></span>
+        <h5 class="off">Off</h5>
+        <h5 class="on">On</h5>
+      </div>
+    </label>
+  </div>
+
+  <div class="switch-on-off noselect">
+    <label>
+      <div>
+        <h4>&nbsp;&nbsp;Read mode</h4>
+      </div>
+      <div class="switch">
+        <input type="checkbox" id="read-mode-btn">
+        <span class="slider"></span>
+        <h5 class="off">Off</h5>
+        <h5 class="on">On</h5>
+      </div>
+    </label>
+  </div>
+  <hr>
+
+  <div id="rule-list">
+    <h4>CleanUp rules:  </h4>
+    <div id="clean-rules-list"></div>
+    <button class="add-rule" id="add-clean-rule-btn">Add CleanUp rule</button>
+
+    <br><br>
+    <h4>Read mode rules:</h4>
+    <div id="read-rules-list"></div>
+    <button class="add-rule" id="add-read-rule-btn">Add ReadMode rule</button>
+  </div>
+</div>
+
+</body>
+</html>
