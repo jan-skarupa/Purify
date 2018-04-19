@@ -1,0 +1,42 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "arzyu-chrome"
+  ],
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "rules": {
+    "indent": [
+      "error",
+      2
+    ],
+    "linebreak-style": [
+      "error",
+      "unix"
+    ],
+    "quotes": [
+      "error",
+      "single"
+    ],
+    "semi": [
+      "error",
+      "never"
+    ],
+    "arrow-body-style": [
+      "error",
+      "always"
+    ],
+    "dot-notation": "off",
+    "camelcase": "off",
+    "no-alert": "off",
+    "prefer-promise-reject-errors": "off",
+    "no-console": "off",
+    "prefer-template": "off"
+  }
+}
+// "arzyu-chrome"

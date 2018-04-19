@@ -1,6 +1,6 @@
 <div align="center" width="75%">
   <h1>Purify Extension</h1>
-  <a href="https://travis-ci.org/AdharaOrigin/tmp"><img src="https://travis-ci.org/AdharaOrigin/tmp.svg?branch=master" alt="Build Status"></a>
+  <a href="https://travis-ci.org/AdharaOrigin/tmp"><img src="https://travis-ci.org/jan-skarupa/Purify.svg?branch=master" alt="Build Status"></a>
   <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg" alt="GNU GPL v3 license"></a>
   <br><br>  
   
@@ -19,7 +19,7 @@ can select desired element. Optionally name what you are hiding or adjust the se
 
 Watch short video below to see how Purify can be used.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UusahdRIpsg/0.jpg)](https://www.youtube.com/watch?v=UusahdRIpsg)
+[![IMAGE](https://img.youtube.com/vi/UusahdRIpsg/0.jpg)](https://www.youtube.com/watch?v=UusahdRIpsg){:target="_blank"}
 
 
 There are two modes available:
