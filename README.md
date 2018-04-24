@@ -19,7 +19,7 @@ can select desired element. Optionally name what you are hiding or adjust the se
 
 Watch short video below to see how Purify can be used.
 
-[![IMAGE](https://img.youtube.com/vi/UusahdRIpsg/0.jpg)](https://www.youtube.com/watch?v=UusahdRIpsg){:target="_blank"}
+[![IMAGE](https://img.youtube.com/vi/UusahdRIpsg/0.jpg)](https://www.youtube.com/watch?v=UusahdRIpsg)
 
 
 There are two modes available:
