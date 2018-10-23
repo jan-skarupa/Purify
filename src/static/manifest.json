@@ -22,7 +22,6 @@
     {
       "matches": ["http://*/*", "https://*/*", "file://*/*"],
       "js": ["content.js"],
-      "css": ["search-menu.css"],
       "run_at": "document_start"
     }
   ],
